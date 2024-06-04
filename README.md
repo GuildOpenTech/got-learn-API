@@ -1,10 +1,12 @@
 # GOT-Learn-API
+Hello, dear contributor, nice to meet you ! 👋 
 
-This is the source code of GOT Learn API that provide data used by GOT-Learn-Front project (https://github.com/GuildOpenTech/got-learn-Front)
+This is the source code of GOT Learn API that provide data used by GOT-Learn-Front project (https://github.com/GuildOpenTech/got-learn-Front).
+
+This project is build with [Nest](https://docs.nestjs.com/), a TypeScript framework. 
 
 ## Before you start
-👋 Hello, dear contributor, nice to meet you !
-Please take a look into the README on the main repository : https://github.com/GuildOpenTech/GOT-Learn
+Please take a look into the [README on the main repository](https://github.com/GuildOpenTech/GOT-Learn)
 
 ## Prerequisites
 - NodeJS (latest / LTS)
