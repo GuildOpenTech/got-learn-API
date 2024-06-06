@@ -22,12 +22,12 @@ $ yarn install
 
 ```bash
 # development
-$ yarn run start
+$ yarn start
 ```
 
 ## Test
 
 ```bash
 # unit tests
-$ yarn run test
+$ yarn test
 ```
